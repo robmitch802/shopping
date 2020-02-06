@@ -4,3 +4,4 @@ milk
 eggs
 chocolate chips
 ice cream
+nacho tortilla chips
